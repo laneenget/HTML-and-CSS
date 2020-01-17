@@ -1,0 +1,82 @@
+p{
+    color: #66669a;
+    font-size: 20px;
+}
+
+h1{
+    color: #5c5174;
+    text-align: center;
+}
+
+body{
+    background-color: #aaa7cc;
+    font-family: Perpetua, serif;
+}
+
+a{
+    background-color:	#be9fbf;
+    text-decoration: none;
+}
+
+#page-title{
+    text-shadow: 4px 4px #926d88;
+    margin: 40px;
+}
+
+#favorite-music-name{
+    font-style: bold;
+    color: black;
+    background-color: 	#926d88;
+}
+
+#favorite-movie-title{
+    font-style: italic;
+    color: black;
+    background-color: #926d88;
+}
+
+#most-favorite-food{
+    font-weight: bold;
+}
+
+.section-header{
+    text-align: center;
+}
+
+.favorite-section{
+    border: 5px black solid;
+    margin: 5px;
+    padding: 10px;
+}
+
+.favorite-image{
+    display: block;
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    margin-left: 50px;
+    font-size: 24px;
+}
+
+th{
+    text-align: center;
+    font-style: bold;
+    color: #d4bfc3;
+}
+
+td{
+    text-align: center;
+    color: #e7d2df;
+}
